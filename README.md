@@ -56,3 +56,4 @@ MainCode.cpp – Entry point for the program and core loop
 SceneManager.cpp / SceneManager.h – Handles objects, textures, and rendering
 ViewManager.cpp / ViewManager.h – Manages camera and view transformations
 3D Screenshot.png – Image of the completed 3D scene
+Design Decisions.docx - Detail document about the project. 
