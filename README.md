@@ -52,6 +52,7 @@ Understanding computational graphics provides me with a deeper appreciation of s
 
 📦 Repository Contents
 
-🎮 3D Scene ZIP Folder – complete Visual Studio project and source code
-📝 Design Decisions Document – written explanation of development choices
-📖 README.md – reflection on design and development process
+MainCode.cpp – Entry point for the program and core loop
+SceneManager.cpp / SceneManager.h – Handles objects, textures, and rendering
+ViewManager.cpp / ViewManager.h – Manages camera and view transformations
+3D Screenshot.png – Image of the completed 3D scene
